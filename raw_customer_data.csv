@@ -1,0 +1,31 @@
+Customer_ID,Name,Email,Phone,City,Join_Date,Last_Order,Total_Spent,Orders,Status
+C001,Arun Kumar,arun@gmail.com,9876543210,Mumbai,2024-01-15,2026-05-10,25000,12,Active
+C002,Divya Sharma,divya@yahoo.com,9876543211,Delhi,2024-03-20,2026-05-12,18000,8,Active
+C003,Rahul Verma,rahul@gmail.com,9876543212,Bangalore,2024-02-10,2026-05-01,45000,15,Active
+C004,Neha Gupta,neha@rediff.com,9876543213,Mumbai,2024-04-05,2026-05-14,65000,20,Active
+C005,Vikram Singh,vikram@gmail.com,9876543214,Chennai,2024-05-12,2026-04-15,8000,5,Inactive
+C006,,pooja@yahoo.com,9876543215,Delhi,2024-06-18,2026-05-13,22000,10,Active
+C007,Amit Patel,amit@gmail.com,,Bangalore,2024-07-22,2026-04-20,6000,4,Inactive
+C008,Shreya Joshi,shreya@gmail.com,9876543217,Mumbai,2024-08-30,2026-05-14,35000,14,Active
+C009,Manish Tiwari,manish@rediff.com,9876543218,Delhi,2024-01-25,2026-05-05,85000,25,Active
+C010,Priyanka Das,priyanka@gmail.com,9876543219,Chennai,2024-02-14,2026-05-09,12000,7,Active
+C011,Karthik Nair,,-,Bangalore,2024-03-28,2026-04-28,9000,6,Inactive
+C012,Anjali Mehta,anjali@yahoo.com,9876543221,Mumbai,2024-04-12,2026-05-13,48000,18,Active
+C013,Rohan Das,rohan@gmail.com,9876543222,Chennai,2024-05-25,2026-03-25,4000,3,Inactive
+C014,Sneha Kapoor,sneha@rediff.com,9876543223,Delhi,2024-06-30,2026-05-12,28000,11,Active
+C015,Aditya Khanna,aditya@gmail.com,9876543224,Mumbai,2024-07-15,2026-04-10,15000,8,Active
+C016,Kavita Iyer,kavita@yahoo.com,,Bangalore,2024-08-20,2026-05-14,55000,22,Active
+C017,Rajesh Nair,rajesh@gmail.com,9876543226,Delhi,2024-09-05,2026-05-01,19000,9,Active
+C018,Meera Sen,meera@rediff.com,9876543227,Mumbai,2024-09-18,2026-05-10,32000,13,Active
+C019,Siddharth Roy,siddharth@gmail.com,9876543228,Chennai,2024-10-10,2026-03-30,7000,4,Inactive
+C020,Tanvi Malhotra,tanvi@yahoo.com,9876543229,Bangalore,2024-10-25,2026-05-14,42000,16,Active
+C021,Nikhil Bansal,nikhil@gmail.com,,Delhi,2024-11-12,2026-05-05,19000,9,Active
+C022,Ritika Jain,ritika@rediff.com,9876543231,Mumbai,2024-11-28,2026-05-13,48000,18,Active
+C023,Aakash Chopra,aakash@gmail.com,9876543232,Chennai,2024-12-05,2026-04-15,6800,4,Inactive
+C024,Shivani Rao,shivani@yahoo.com,9876543233,Delhi,2024-12-20,2026-05-14,35000,14,Active
+C025,Harsh Vardhan,harsh@gmail.com,9876543234,Bangalore,2025-01-08,2026-05-02,25000,10,Active
+C026,,test@email.com,9876543235,Mumbai,2025-01-15,2026-05-01,15000,5,Active
+C027,Duplicate User,duplicate@gmail.com,9876543236,Delhi,2025-01-20,2026-04-28,5000,2,Inactive
+C028,Duplicate User,duplicate@gmail.com,9876543236,Delhi,2025-01-20,2026-04-28,5000,2,Inactive
+C029,Test User,test@gmail.com,,Pune,2025-02-01,2026-05-10,10000,4,Active
+C030,Missing Data,missing@test.com,9876543240,2025-02-10,2026-05-01,8000,3,Active
